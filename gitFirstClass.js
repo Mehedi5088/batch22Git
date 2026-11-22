@@ -5,3 +5,4 @@ class Name {
     }
 }
 const result = new Name();
+
